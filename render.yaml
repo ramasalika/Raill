@@ -3,7 +3,7 @@ services:
   - type: web
     name: Ngrok
     env: docker
-    repo: https://github.com/AkashiCoin/Railway-Ngrok.git # optional
+    repo: https://github.com/ramasalika/Raill.git # optional
     region: Singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
